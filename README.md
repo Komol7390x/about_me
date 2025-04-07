@@ -1,2 +1,2 @@
 # about_me
-Men haqimda
+#Men haqimda
