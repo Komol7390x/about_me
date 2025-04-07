@@ -1,3 +1,3 @@
 # about_me
-#Men haqimda
-##Komoliddin
+# Men haqimda
+## Komoliddin
